@@ -10,7 +10,8 @@
 ## KELUAR DATA
 # ![k](https://user-images.githubusercontent.com/118960008/208233966-e6b2eb4e-ef60-4b6b-a580-8d1414e685e7.png)
 # FLOWCHART 
-#
+# ![FLOW](https://user-images.githubusercontent.com/118960008/206659279-477d7717-b78b-4790-8001-f8a812b67bd9.png)
+
 
 
 
